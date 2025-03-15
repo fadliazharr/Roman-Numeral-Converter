@@ -63,11 +63,4 @@ This is a simple **Roman Numeral Converter** built using **HTML, CSS, and JavaSc
 | `500` | `D` |
 | `3999` | `MMMCMXCIX` |
 
-## Future Enhancements  
-
-- Add a **Roman numeral to number converter**.  
-- Improve UI with animations or a dark mode.  
-- Allow keyboard shortcuts for faster conversion.  
-
----
 
