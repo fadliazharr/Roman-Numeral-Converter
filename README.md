@@ -3,7 +3,6 @@
 You can access the converter here:
 https://fadliazharr.github.io/Roman-Numeral-Converter/
 
-# Roman Numeral Converter  
 
 ## Overview  
 
